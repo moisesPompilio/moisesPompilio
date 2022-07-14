@@ -8,10 +8,10 @@
 ### Hello, my name is Moises Pompilio!! || Olá, meu nome é Moises Pompilio!!
 
 
-- 🤔 Explorando e apredendo novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Explorando e aprendendo novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando: **Bacharelado em Engenharia da Computação**, UFPA.
 - 💼 Estágiando: Advocacia Geral da União.
-- 🧠 Estudando: Framework React(TypeScript e Native) | Spring Security | Docker
+- 🧠 Estudando: Framework React(TypeScript e Native) | Spring Security | Docker | Inglês
 
 <!-- 
 ===========================================================
