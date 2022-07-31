@@ -10,8 +10,8 @@
 
 - 🤔 Explorando e aprendendo novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando: **Bacharelado em Engenharia da Computação**, UFPA.
-- 💼 Estágiando: Advocacia Geral da União.
-- 🧠 Estudando: Framework React(TypeScript e Native) | Spring Security | Docker | Inglês
+- 💼 Desenvolvedor Full-Stack na Advocacia Geral da União( AGU ).
+- 🧠 Estudando: Docker| Podman | Inglês
 
 <!-- 
 ===========================================================
