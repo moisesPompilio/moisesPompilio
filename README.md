@@ -25,6 +25,7 @@ Mais configurações em: https://github.com/devicons/devicon/tree/master/icons
 > **Linguagens e Frameworks**
  
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-35495E?style=flat&logo=TypeScript&logoColor=007acc)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -51,6 +52,7 @@ Mais configurações em: https://github.com/devicons/devicon/tree/master/icons
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma-ide&logoColor=2C2255)
+  ![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=dbeaver)
  
  <!-- 
 ===========================================================
