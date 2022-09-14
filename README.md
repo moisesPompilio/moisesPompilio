@@ -11,7 +11,7 @@
 - 🤔 Explorando e aprendendo novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando: **Bacharelado em Engenharia da Computação**, UFPA.
 - 💼 Desenvolvedor Full-Stack na Advocacia Geral da União( AGU ).
-- 🧠 Estudando: Docker| Podman | Inglês
+- 🧠 Estudando: Docker| Flutter | Inglês
 
 <!-- 
 ===========================================================
@@ -66,11 +66,16 @@ para implementar:
 <h4> :earth_americas: &nbsp;Contato: </h4> 
 
   <p align="left">
+   <a href="https://keen-fairy-002944.netlify.app/" alt="Portifolio">
+  <img src="https://img.shields.io/badge/-Portifolio-0e76a8?style=flat-square&logo=mastodon&logoColor=white" /></a>
+  
   <a href="mailto:moisesalexandrep.c@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/moises-pompilio-173bb021b" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  
+ 
 
 </p>
 
