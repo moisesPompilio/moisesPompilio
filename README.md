@@ -11,7 +11,7 @@
 - 🤔 Explorando e aprendendo novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando: **Bacharelado em Engenharia da Computação**, UFPA.
 - 💼 Desenvolvedor Full-Stack na Advocacia Geral da União( AGU ).
-- 🧠 Estudando: Docker| Flutter | Inglês
+- 🧠 Estudando: CICD | AWS | Inglês
 
 <!-- 
 ===========================================================
