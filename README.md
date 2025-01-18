@@ -6,7 +6,7 @@
 
 - 💼 Desenvovdor Junior Full Stack.
 - 🎓 Cursando: **Bacharelado em Engenharia da Computação**, UFPA.
-- 🧠 Estudando: Terraform | AWS | Inglês
+- 🧠 Estudando: Bitcoin | Parelismo | Inglês
 
 ##
 <h4> 👨‍💻Minhas Skills </h4>
