@@ -2,7 +2,7 @@
 
 ### Hello, my name is Moises Pompilio!!
 
-- 🏆 **Fellowship** at [Vinteum](https://vinteum.org/), contributing to the Bitcoin Open Source ecosystem (BOSS).
+- 🏆 **Grantee** at [OpenSats](https://opensats.org/), contributing to the Bitcoin Open Source ecosystem (BOSS).
 - 🦀 Main language: **Rust**.
 
 ##
